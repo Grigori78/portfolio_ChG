@@ -1,0 +1,11 @@
+queue.depend
+queue.layout
+main.exe
+main.o
+bin
+obj
+stack_on_array.depend
+stack_on_array.layout
+*.exe
+*.depend
+*.layout
